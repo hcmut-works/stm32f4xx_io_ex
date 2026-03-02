@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# project config
+.project
+.cproject
+.settings
